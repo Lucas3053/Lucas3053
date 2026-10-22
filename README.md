@@ -1,15 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Lucas%20Frazão&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%26%20Django&descAlignY=58&descSize=18" alt="Lucas Frazão" />
+  <img src="assets/banner.svg" alt="Lucas Frazão" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Lucas3053">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=APIs+com+Django%2C+DRF+e+Django+Ninja;Automa%C3%A7%C3%B5es+que+economizam+horas+de+trabalho;Agentes+de+IA+integrados+ao+backend;Next.js+%2B+TypeScript+quando+precisa+de+tela" alt="Typing SVG" />
+    <img src="assets/typing.svg" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lucas3053&label=Visitas&color=70a5fd&style=flat" alt="Visitas ao perfil" />
   <img src="https://img.shields.io/github/followers/Lucas3053?label=Seguidores&style=flat&color=70a5fd" alt="Seguidores" />
   <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo-Brasil-70a5fd?style=flat&logo=googlemaps&logoColor=white" alt="São Paulo, Brasil" />
 </p>
@@ -28,9 +27,9 @@
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,rabbitmq,docker,nginx,linux&theme=dark" alt="Backend" />
+  <img src="assets/stack-backend.svg" alt="Backend" />
   <br />
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,git,github,vscode&theme=dark" alt="Frontend e ferramentas" />
+  <img src="assets/stack-frontend.svg" alt="Frontend e ferramentas" />
 </p>
 
 ## 📊 Estatísticas
@@ -55,5 +54,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=120&section=footer" alt="" />
+  <img src="assets/footer.svg" alt="" />
 </p>
