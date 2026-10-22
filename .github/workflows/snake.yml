@@ -17,17 +17,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Gerar card de sequência
+        run: mkdir -p dist && python3 scripts/streak_card.py ${{ github.repository_owner }} dist/streak.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Gerar card de sequência
-        run: python3 scripts/streak_card.py ${{ github.repository_owner }} dist/streak.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
