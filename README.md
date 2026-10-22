@@ -35,7 +35,7 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lucas3053&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+  <img src="https://raw.githubusercontent.com/Lucas3053/Lucas3053/output/streak.svg" alt="Sequência de contribuições" />
 </p>
 
 ## 🏆 Troféus
